@@ -1,2 +1,2 @@
 # 24K-3028
-Tasks related to Pseudo Code.
+Tasks related to LAB 2.
