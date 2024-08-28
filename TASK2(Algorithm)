@@ -1,0 +1,15 @@
+Ask the user to enter a NUMBER from 1 to 12.
+Set a condirion for each NUMBER.
+IF the NUMBER is 1 THEN, DISPLAY "January."
+IF the NUMBER is 2 THEN, DISPLAY "February."
+IF the NUMBER is 3 THEN, DISPLAY "March."
+IF the NUMBER is 4 THEN, DISPPLAY "April."
+IF the NUMBER is 5 THEN , DISPLAY "May."
+IF the NUMBER is 6 THEN, DISPLAY "June."
+IF the NUMBER is 7 THEN, DISPLAY "July."
+IF the NUMBER is 8 THEN, DISPLAY "August."
+IF the NUMBER is 9 THEN, DISPLAY "September."
+IF the NUMBER is 10 THEN, DISPLAY "October."
+IF the NUMBER is 11 THEN, DISPLAY "November."
+IF the NUMBER is 12 THEN, DISPLAY "December."
+IF the NUMBER is outside this range of 1 to 12 THEN, DISPLAY "Invalid Month Number."
